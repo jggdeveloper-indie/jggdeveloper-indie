@@ -11,11 +11,4 @@
     <img width="auto" height="80px" src="https://miro.medium.com/v2/resize:fit:800/1*COvz0L3FUapYYbsQHHZ90g.png"/>
 </div>
 
-<h3 align="center">Technologies that I consider of great interest to learn in the future</h3>
-<div align="center">
-    <img width="auto" height="80px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"/>
-    <img width="auto" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
-    <img width="auto" height="80px" src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png"/>
-</div>
-
 
